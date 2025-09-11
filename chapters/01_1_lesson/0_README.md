@@ -14,3 +14,4 @@
 ## Chapter 1 Exercises
 Complete them after reading Chapter 1 and the Math Examples.
   - **File**: `3_exercises.md`
+
